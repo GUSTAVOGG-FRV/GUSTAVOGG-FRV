@@ -1,4 +1,4 @@
-## Olá Pessoal! Professor Alexsander William Spritze 👋
+## Olá Pessoal! meu nome e gustavo brendam👋
 
 - 🧑🏻‍🏫 Aluno do Curso Técnico de Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 - 💻 Perfil focado em aulas de Linguagem de Programação, Lógica de Programação e Banco de Dados.
